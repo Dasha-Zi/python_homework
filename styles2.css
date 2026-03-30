@@ -1,0 +1,42 @@
+body {
+    font-size: 24px;
+}
+p.red {
+    color: red;
+}
+p.bold {
+    font-weight: bold;
+}
+li.aqua {
+    color:aqua;
+}
+li.blueviolet {
+    color:blueviolet;
+} 
+li.red {
+    color:red;
+}
+li.green {
+    color: green;
+}
+span.xxsmall {
+    font-size:xx-small;
+}
+span.xsmall {
+    font-size:x-small;
+}
+span.small {
+    font-size: small;
+}
+span.medium {
+    font-size: medium;
+}
+span.large {
+    font-size: large;
+}
+span.xlarge {
+    font-size: x-large;
+}
+span.xxlarge {
+    font-size: xx-large;
+}
